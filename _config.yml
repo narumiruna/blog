@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Wei-Po Chen
 language: en
 timezone: ''
 
@@ -104,5 +104,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/narumiruna/narumiruna.github.io.git
+  repo: git@github.com:narumiruna/narumiruna.github.io.git
   branch: master
