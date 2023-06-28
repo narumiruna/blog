@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 03:33:31 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Narumi</title>
+      <link>/posts/narumi/</link>
+      <pubDate>Thu, 29 Jun 2023 03:33:31 +0800</pubDate>
+      
+      <guid>/posts/narumi/</guid>
+      <description>222</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 29 Jun 2023 02:59:07 +0800</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Hello, world!</description>
+    </item>
+    
+  </channel>
+</rss>
