@@ -2,3 +2,4 @@ baseURL = 'http://blog.narumi.dev/'
 languageCode = 'zh-tw'
 title = 'なるみ'
 theme = "PaperMod"
+math = true
