@@ -5,19 +5,6 @@
     <link>https://blog.narumi.dev/</link>
     <description>Recent content on narumi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2023 02:59:07 +0800</lastBuildDate><atom:link href="https://blog.narumi.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://blog.narumi.dev/posts/my-first-post/</link>
-      <pubDate>Thu, 29 Jun 2023 02:59:07 +0800</pubDate>
-      
-      <guid>https://blog.narumi.dev/posts/my-first-post/</guid>
-      
-      <description>&lt;p&gt;Hello, world!&lt;/p&gt;
-</description>
-      
-    </item>
-    
+    <language>zh-tw</language><atom:link href="https://blog.narumi.dev/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
