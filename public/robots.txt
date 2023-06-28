@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://blog.narumi.dev/sitemap.xml
