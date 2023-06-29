@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.narumi.dev/posts/my-first-post/</loc>
+    <lastmod>2023-06-29T02:59:07+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.narumi.dev/posts/</loc>
+    <lastmod>2023-06-29T02:59:07+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.narumi.dev/</loc>
+    <lastmod>2023-06-29T02:59:07+08:00</lastmod>
+  </url><url>
     <loc>http://blog.narumi.dev/about/</loc>
   </url><url>
     <loc>http://blog.narumi.dev/categories/</loc>
   </url><url>
     <loc>http://blog.narumi.dev/tags/</loc>
-  </url><url>
-    <loc>http://blog.narumi.dev/</loc>
   </url>
 </urlset>

@@ -5,7 +5,17 @@
     <link>http://blog.narumi.dev/</link>
     <description>Recent content on なるみ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="http://blog.narumi.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Jun 2023 02:59:07 +0800</lastBuildDate><atom:link href="http://blog.narumi.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://blog.narumi.dev/posts/my-first-post/</link>
+      <pubDate>Thu, 29 Jun 2023 02:59:07 +0800</pubDate>
+      
+      <guid>http://blog.narumi.dev/posts/my-first-post/</guid>
+      <description>$$ \int_0^1 x^2 dx = \frac{1}{3} $$</description>
+    </item>
+    
     <item>
       <title></title>
       <link>http://blog.narumi.dev/about/</link>

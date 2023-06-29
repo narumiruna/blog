@@ -13,8 +13,7 @@
       <pubDate>Thu, 29 Jun 2023 02:59:07 +0800</pubDate>
       
       <guid>http://blog.narumi.dev/posts/my-first-post/</guid>
-      <description>Hello, world!
-$$ \int_0^1 x^2 dx = \frac{1}{3} $$</description>
+      <description>$$ \int_0^1 x^2 dx = \frac{1}{3} $$</description>
     </item>
     
   </channel>
