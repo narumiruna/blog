@@ -4,6 +4,18 @@ title = 'なるみ'
 theme = "PaperMod"
 math = true
 
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+category = "categories"
+tag = "tags"
