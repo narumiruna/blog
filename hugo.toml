@@ -49,7 +49,7 @@ ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 
 [params.homeInfoParams]
-Title = "Hi there 👋"
+Title = ""
 Content = ""
 
 [[params.socialIcons]]
