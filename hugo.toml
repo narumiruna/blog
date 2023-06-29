@@ -34,4 +34,7 @@ tag = "tags"
 
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
 [outputs]
-  home = ['html', 'rss', 'json']
+home = ['html', 'rss', 'json']
+
+[params]
+ShowShareButtons = true
