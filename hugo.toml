@@ -11,17 +11,27 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 2
+
+[[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 3
+weight = 4
 
 [taxonomies]
 category = "categories"
 tag = "tags"
+
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
+[outputs]
+  home = ['html', 'rss', 'json']
