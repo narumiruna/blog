@@ -47,3 +47,11 @@ ShowShareButtons = true
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = ""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/narumiruna"
