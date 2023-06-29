@@ -3,3 +3,7 @@ languageCode = 'zh-tw'
 title = 'なるみ'
 theme = "PaperMod"
 math = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
