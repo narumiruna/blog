@@ -1,7 +1,7 @@
 ---
 title: "Cross Entropy"
 date: null
-draft: true
+draft: false
 tags: ["math", "machine-learning", "deep-learning"]
 ShowToc: true
 ---
