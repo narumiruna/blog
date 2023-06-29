@@ -2,8 +2,8 @@
 title: "Arrayfun With Gpuarray"
 date: null
 draft: false
-ShowToc: true
 tags: ["matlab", "gpu"]
+ShowToc: true
 ---
 
 ## 動機
