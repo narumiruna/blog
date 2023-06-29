@@ -38,3 +38,4 @@ home = ['html', 'rss', 'json']
 
 [params]
 ShowShareButtons = true
+ShowReadingTime = true
