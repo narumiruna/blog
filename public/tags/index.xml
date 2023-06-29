@@ -5,6 +5,16 @@
     <link>http://blog.narumi.dev/tags/</link>
     <description>Recent content in Tags on なるみ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="http://blog.narumi.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Jun 2023 02:59:07 +0800</lastBuildDate><atom:link href="http://blog.narumi.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>math</title>
+      <link>http://blog.narumi.dev/tags/math/</link>
+      <pubDate>Thu, 29 Jun 2023 02:59:07 +0800</pubDate>
+      
+      <guid>http://blog.narumi.dev/tags/math/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
