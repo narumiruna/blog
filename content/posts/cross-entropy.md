@@ -33,7 +33,7 @@ Then
 $$
 \begin{align}
 \max_{h} \text{likelihood}(h)  \Leftrightarrow & \max_{h} \log{ \Pi_{y_i=1} \hat{y_i}  \Pi_{y_i=0} (1-\hat{y_i}) } \\\\
-\Leftrightarrow & \max_{h} \sum_{y_i=1} \log \hat{y_i} + \sum_{y_i=0} \log (1-\hat{y_i}) \\
+\Leftrightarrow & \max_{h} \sum_{y_i=1} \log \hat{y_i} + \sum_{y_i=0} \log (1-\hat{y_i}) \\\\
 \Leftrightarrow & \max_{h} \sum_{y_i=1} y_i \log \hat{y_i} + \sum_{y_i=0} (1-y_i)  \log (1-\hat{y_i}) \\\\
 \Leftrightarrow & \max_{h} \sum_{i=1}^n y_i \log \hat{y_i} + \sum_{i=1}^n (1-y_i)  \log (1-\hat{y_i}) \\\\
 \Leftrightarrow & \max_{h} \sum_{i=1}^n \left[ y_i \log \hat{y_i} + (1-y_i)  \log (1-\hat{y_i}) \right] \\\\
@@ -71,7 +71,7 @@ where $\sum_{j=1}^{m} Y_{ij} = 1$ and $\sum_{j=1}^{m} \widehat{Y_{ij}} = 1$.
 
 $$
 \begin{align}
-\text{CFL}(Y, \widehat{Y}) = & -\frac{1}{n}  \sum_{i=1}^n \left< Y_i,(1 - \widehat{Y_i})^{\gamma} \cdot \log \widehat{Y_i} \right> \\
+\text{CFL}(Y, \widehat{Y}) = & -\frac{1}{n}  \sum_{i=1}^n \left< Y_i,(1 - \widehat{Y_i})^{\gamma} \cdot \log \widehat{Y_i} \right> \\\\
 = & -\frac{1}{n}  \sum_{i=1}^n \left< Y_i, \text{FL}(\widehat{Y_i}) \right>
 \end{align}
 $$
