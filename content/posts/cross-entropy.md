@@ -10,12 +10,12 @@ ShowToc: true
 
 ## Binary Cross Entropy
 
-Given a dataset $D = \{ (x_1, y_1), \cdots, (x_n, y_n) \}$ where $x_i \in \mathbb{R}^d$ and  $y_i \in \{1,0\}$. Let $h: \mathbb{R}^d \rightarrow [0,1]$ be the function in hypothesis set and $\hat{y_i} = h(x_i)$ for all $i=1,\cdots, n$.
+Given a dataset $D = \\{ (x_1, y_1), \cdots, (x_n, y_n) \\}$ where $x_i \in \mathbb{R}^d$ and  $y_i \in \\{ 1,0 \\}$. Let $h: \mathbb{R}^d \rightarrow [0,1]$ be the function in hypothesis set and $\hat{y_i} = h(x_i)$ for all $i=1,\cdots, n$.
 
 Since we have
 $$ p(y_i=1|x_i) = \left\\{\begin{array}{cc} 
-h(x)  & \text{ if } y_i = 1 \\\\
-1-h(x) & \text{ if } y_i = 0
+h(x_i)  & \text{ if } y_i = 1 \\\\
+1-h(x_i) & \text{ if } y_i = 0
 \end{array} \right.
 $$
 the 
