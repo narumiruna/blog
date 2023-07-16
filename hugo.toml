@@ -1,4 +1,4 @@
-baseURL = 'http://blog.narumi.dev/'
+baseURL = 'http://narumi.dev/'
 languageCode = 'zh-tw'
 title = 'なるみ'
 theme = "PaperMod"
