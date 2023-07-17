@@ -2,7 +2,7 @@
 title: "Creme Brulee"
 date: 2023-06-30T02:38:57+08:00
 draft: false
-ShowToc: true
+showtoc: true
 tags: ["recipe"]
 ---
 

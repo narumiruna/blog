@@ -3,7 +3,7 @@ title: "Arrayfun With Gpuarray"
 date: null
 draft: false
 tags: ["matlab", "gpu"]
-ShowToc: true
+showtoc: true
 ---
 
 ## 動機
