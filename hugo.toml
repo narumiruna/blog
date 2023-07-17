@@ -1,7 +1,8 @@
-baseURL = 'http://narumi.dev/'
+baseURL = 'https://narumi.dev/'
 languageCode = 'zh-tw'
 defaultcontentlanguage = 'zh-tw'
 title = 'なるみ'
+description = "Hi, this is Narumi, a machine learning engineer. I'm documenting my learning notes here."
 theme = "PaperMod"
 
 [[menu.main]]
