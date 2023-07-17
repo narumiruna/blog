@@ -55,6 +55,7 @@ ShowReadingTime = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 
+# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/#adding-custom-favicons
 [params.assets]
 favicon = 'favicon.ico'
 favicon16x16 = 'favicon-16x16.png'
