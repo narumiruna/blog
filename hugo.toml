@@ -3,7 +3,6 @@ languageCode = 'zh-tw'
 defaultcontentlanguage = 'zh'
 title = 'なるみ'
 theme = "PaperMod"
-math = true
 
 [languages]
   [languages.en]
