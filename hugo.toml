@@ -57,7 +57,7 @@ favicon32x32 = "favicon-32x32.png"
 apple_touch_icon = "apple-touch-icon.png"
 
 [params.homeInfoParams]
-Title = "Welcome to なるみ's blog"
+Title = "Welcome to Narumi's blog"
 Content = "Hi, I'm Narumi, a machine learning engineer."
 
 [[params.socialIcons]]
