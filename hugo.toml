@@ -1,6 +1,6 @@
 baseURL = 'http://narumi.dev/'
 languageCode = 'zh-tw'
-defaultcontentlanguage = 'zh'
+defaultcontentlanguage = 'zh-tw'
 title = 'なるみ'
 theme = "PaperMod"
 
