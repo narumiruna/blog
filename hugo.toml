@@ -2,7 +2,7 @@ baseURL = "https://narumi.dev/"
 languageCode = "zh-tw"
 defaultcontentlanguage = "zh-tw"
 title = "なるみ"
-description = "Hi, this is Narumi, a machine learning engineer. I'm documenting my learning notes here."
+description = "Hi, I'm Narumi, a machine learning engineer."
 theme = "PaperMod"
 
 [[menu.main]]
@@ -57,8 +57,8 @@ favicon32x32 = "favicon-32x32.png"
 apple_touch_icon = "apple-touch-icon.png"
 
 [params.homeInfoParams]
-Title = ""
-Content = ""
+Title = "Welcome to なるみ's blog"
+Content = "Hi, I'm Narumi, a machine learning engineer."
 
 [[params.socialIcons]]
 name = "github"
