@@ -55,3 +55,8 @@ Content = ""
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/narumiruna"
+
+[sitemap]
+changefreq = 'monthly'
+filename = 'sitemap.xml'
+priority = 0.5
