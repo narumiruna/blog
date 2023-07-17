@@ -4,13 +4,6 @@ defaultcontentlanguage = 'zh'
 title = 'なるみ'
 theme = "PaperMod"
 
-[languages]
-  [languages.en]
-    languagecode = 'en-us'
-    
-  [languages.zh]
-    languageCode = 'zh-tw'
-
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
