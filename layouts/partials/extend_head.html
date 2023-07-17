@@ -1,1 +1,2 @@
-{{ partial "math.html" . }}
+<!-- {{ partial "math.html" . }} -->
+{{ if .Params.math }}{{ partial "math.html" . }}{{ end }}

@@ -4,6 +4,7 @@ date: null
 draft: false
 tags: ["math", "machine-learning", "deep-learning"]
 ShowToc: true
+math: true
 ---
 
 # Cross Entropy
