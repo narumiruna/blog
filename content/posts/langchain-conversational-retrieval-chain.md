@@ -6,6 +6,8 @@ showtoc: true
 math: false
 ---
 
+先隨便用 ChatGPT 產一版，之後再來改。
+
 ## 基本用法
 
 ```python
