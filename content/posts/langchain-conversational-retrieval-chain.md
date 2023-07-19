@@ -1,7 +1,7 @@
 ---
 title: "Draft: Langchain 的 Conversational Retrieval Chain 做了什麼?"
 date: 2023-07-17T21:43:09+08:00
-draft: true
+draft: false
 showtoc: true
 math: false
 ---
