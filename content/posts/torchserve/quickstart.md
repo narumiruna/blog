@@ -134,6 +134,127 @@ curl http://127.0.0.1:8080/predictions/densenet161 -T kitten_small.jpg
 }
 ```
 
+Health check API
+```shell
+curl http://127.0.0.1:8080/ping
+```
+
+```json
+{
+  "status": "Healthy"
+}
+```
+
+List models API
+```shell
+curl http://127.0.0.1:8081/models
+```
+
+```json
+{
+  "models": [
+    {
+      "modelName": "densenet161",
+      "modelUrl": "densenet161.mar"
+    }
+  ]
+}
+```
+
+```
+curl http://127.0.0.1:8081/models/densenet161
+```
+
+```json
+[
+  {
+    "modelName": "densenet161",
+    "modelVersion": "1.0",
+    "modelUrl": "densenet161.mar",
+    "runtime": "python",
+    "minWorkers": 8,
+    "maxWorkers": 8,
+    "batchSize": 1,
+    "maxBatchDelay": 100,
+    "loadedAtStartup": true,
+    "workers": [
+      {
+        "id": "9000",
+        "startTime": "2023-08-28T23:35:26.082Z",
+        "status": "READY",
+        "memoryUsage": 12812288,
+        "pid": 88220,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      },
+      {
+        "id": "9001",
+        "startTime": "2023-08-28T23:35:26.083Z",
+        "status": "READY",
+        "memoryUsage": 12812288,
+        "pid": 88215,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      },
+      {
+        "id": "9002",
+        "startTime": "2023-08-28T23:35:26.083Z",
+        "status": "READY",
+        "memoryUsage": 12812288,
+        "pid": 88219,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      },
+      {
+        "id": "9003",
+        "startTime": "2023-08-28T23:35:26.083Z",
+        "status": "READY",
+        "memoryUsage": 12812288,
+        "pid": 88216,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      },
+      {
+        "id": "9004",
+        "startTime": "2023-08-28T23:35:26.083Z",
+        "status": "READY",
+        "memoryUsage": 12812288,
+        "pid": 88218,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      },
+      {
+        "id": "9005",
+        "startTime": "2023-08-28T23:35:26.083Z",
+        "status": "READY",
+        "memoryUsage": 12812288,
+        "pid": 88214,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      },
+      {
+        "id": "9006",
+        "startTime": "2023-08-28T23:35:26.083Z",
+        "status": "READY",
+        "memoryUsage": 12812288,
+        "pid": 88213,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      },
+      {
+        "id": "9007",
+        "startTime": "2023-08-28T23:35:26.083Z",
+        "status": "READY",
+        "memoryUsage": 15368192,
+        "pid": 88217,
+        "gpu": false,
+        "gpuUsage": "N/A"
+      }
+    ]
+  }
+]
+```
+
 ## References
 
 - [TorchServe Quick Start](https://pytorch.org/serve/getting_started.html)
