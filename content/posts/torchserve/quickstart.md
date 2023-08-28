@@ -4,6 +4,7 @@ date: 2023-08-28T23:49:48+08:00
 draft: false
 showtoc: true
 math: false
+tags: ["pytorch", "torchserve", "mlops"]
 ---
 
 # TorchServe QuickStart 筆記
