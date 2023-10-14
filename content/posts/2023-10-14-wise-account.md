@@ -18,4 +18,4 @@ tags: ["wise", "bank"]
     - [In Progress] 使用 "Direct ACH Transfer from your Bank" 申請了一組虛擬帳戶，嘗試在 Wise 設定 ACH 但不確定是否成功。
 
 
-至少確定了 IB 還可以轉錢，手續費也不該。
+至少確定了 IB 還可以轉錢，手續費也不多。
