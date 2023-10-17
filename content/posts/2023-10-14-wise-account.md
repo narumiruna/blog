@@ -4,7 +4,7 @@ date: 2023-10-14T03:44:29+08:00
 draft: false
 showtoc: true
 math: false
-tags: ["wise", "bank"]
+tags: ["wise", "bank", "stock"]
 ---
 
 今天收到 Wise 的通知，將會更改美元本地帳戶，而新的帳戶號碼就是原本使用的全球帳戶，Evolve Bank & Trust 所提供的帳戶將在 2023-10-18 後無法使用。
