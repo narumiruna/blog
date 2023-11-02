@@ -1,5 +1,5 @@
 update:
-	git submodule update --recursive --remote
+	git submodule update --init --remote --recursive
 
 build: update
 	hugo --cleanDestinationDir --buildDrafts
