@@ -4,7 +4,7 @@ date: 2023-11-02T23:59:16+08:00
 draft: false
 showtoc: true
 math: false
-tags: ["google fi", "wireless", "esim"]
+tags: ["google fi", "wireless", "esim", "aws", "ec2", "gcp", "azure", "vultr", "vpn", "pritunl"]
 ---
 
 ## 主流程
