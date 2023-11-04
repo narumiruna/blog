@@ -4,6 +4,7 @@ defaultcontentlanguage = "zh-tw"
 title = "なるみ"
 description = "Hi, I'm Narumi, a machine learning engineer."
 theme = "PaperMod"
+enableRobotsTXT = true
 
 [[menu.main]]
 identifier = "posts"
