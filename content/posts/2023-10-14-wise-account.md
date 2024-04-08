@@ -1,7 +1,7 @@
 ---
 title: "2023-10-14 Wise 美元帳戶被更改"
 date: 2023-10-14T03:44:29+08:00
-draft: false
+draft: true
 showtoc: true
 math: false
 tags: ["wise", "bank", "stock"]

@@ -1,7 +1,7 @@
 ---
 title: "滙豐旅人無限卡使用筆記"
 date: 2023-11-06T22:17:40+08:00
-draft: false
+draft: true
 showtoc: false
 math: false
 tags: ["hsbc", "travel", "creditcard", "rewards"]

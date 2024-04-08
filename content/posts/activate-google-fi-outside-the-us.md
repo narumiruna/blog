@@ -1,7 +1,7 @@
 ---
 title: "取得半殘 Google Fi 門號"
 date: 2023-11-02T23:59:16+08:00
-draft: false
+draft: true
 showtoc: true
 math: false
 tags: ["google fi", "wireless", "esim", "aws", "ec2", "gcp", "azure", "vultr", "vpn", "pritunl"]
